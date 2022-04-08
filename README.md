@@ -24,4 +24,4 @@
 
 ### Futuro Desenvolvedor Web, focado nos seus objetivos, e apaixonado por programação.
 
-![Snake animation](https://github.com/eutago/eutago/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/eutago/eutago/blob/output/github-contribution-grid-snake.svg)
