@@ -8,6 +8,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535999702904)
 
 ![Thiago Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=eutago&show_icons=true&theme=synthwave)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eutago&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que estou estudando
