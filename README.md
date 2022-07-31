@@ -21,6 +21,6 @@
 </div>
 
 #   
-### Futuro Desenvolvedor Web, focado nos seus objetivos, e apaixonado por programação.
+### Um garoto focado nos seus objetivos, e apaixonado por programação.
 
   ![Snake animation](https://github.com/eutago/eutago/blob/output/github-contribution-grid-snake.svg)
